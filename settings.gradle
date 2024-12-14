@@ -1,0 +1,4 @@
+rootProject.name = "SmartFall Multi-Model Watch-kafka"
+include ':app'
+//include ':BluetoothLe'
+include ':wear'
